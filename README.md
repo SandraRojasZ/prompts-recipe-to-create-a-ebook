@@ -11,14 +11,6 @@ Este projeto foi criado com o intuito de fornecer um recurso abrangente e acess�
 - **Desenvolvimento do Conteúdo do Ebook:**
     - "Faça um texto para ebook com foco em educação financeira, listando os principais pontos de finanças com exemplos. Explique sempre de uma maneira simples. Deixe o texto enxuto. Sempre traga exemplos de códigos em contextos reais. Sempre deixe um título sugestivo por tópico. Sempre deixe um subtítulo sugestivo por tópico."
 
-## Títulos Propostos
-
-- "Segredos da Liberdade Financeira"
-- "Domine Suas Finanças"
-- "Educação Financeira: O Poder do Conhecimento"
-- "Rumo à Independência Financeira"
-- "Finanças Descomplicadas"
-
 ## Link do Artigo
 
 Para acessar o artigo completo e mais recursos sobre educação financeira, visite o [artigo no GitHub](https://github.com/SandraRojasZ/prompts-recipe-to-create-a-ebook/blob/main/output/Rumo%20%C3%A0%20Liberdade%20Financeira%20com%20Intelig%C3%AAncia.pdf).
